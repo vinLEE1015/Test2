@@ -110,8 +110,7 @@ Looking ahead, I aim to elevate the game’s visuals and interactions to the nex
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⚡️ Explore More-FF5733?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Explore Capstone Button">
-</p>
+
 
 ## 🌟 Vision & Goals
 
