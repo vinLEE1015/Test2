@@ -69,24 +69,53 @@ Inspired by the Pokémon universe, I’m dedicated to creating visually captivat
 ---
 
 ### 🕹️ Capstone Project *(In Progress)*
-- **Goal**: Developing a unique game from scratch.
-- **Learning**: Strengthened skills through **Game Engine 1** and **Game Engine 2** courses.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/7d716d45-e612-471a-83a4-5dc2af3ff37d" alt="Capstone Project Screenshot 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/358681b7-f79f-4e70-b380-791033159bd5" alt="Capstone Project Screenshot 2" width="45%">
+</div>
+
+---
+
+> **🎯 A bold step towards creating a unique gaming experience from scratch.**
+
+---
+
+#### **🔍 What I Did**
+- 🎨 **Character Design**: 
+  - Designed captivating, player-friendly characters that align with the game’s theme and storyline.
+- 🔧 **3D Modeling**: 
+  - Developed high-quality character models and environmental assets using tools like **Blender** and **Maya**.
+- 🛠️ **Level Design & Construction**: 
+  - Built immersive game levels with detailed layouts and logical flow.
+
+---
+
+<div align="center">
+  <img src="https://via.placeholder.com/700x250.png?text=Animation+Development+Concept" alt="Animation Development Concept" width="80%">
+</div>
+
+#### **✨ What's Next**
+Looking ahead, I aim to elevate the game’s visuals and interactions to the next level by focusing on:
+- 🎥 **Animation Development**: 
+  - Breathing life into characters through dynamic and realistic animations that enhance immersion.
+- 🤝 **Character Interaction**: 
+  - Implementing seamless interactions between characters to enrich storytelling and gameplay depth.
+
+---
+
+#### **🎨 Key Features**
+| Feature               | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **Unique Characters** | Crafted with attention to detail to ensure memorability and player connection. |
+| **Immersive Levels**  | Designed to draw players into the world through engaging layouts and visuals. |
+| **Creative Animations**| Planned animations to enhance storytelling and gameplay.                  |
+
+---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7d716d45-e612-471a-83a4-5dc2af3ff37d" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/358681b7-f79f-4e70-b380-791033159bd5" width="45%"/>
+  <img src="https://img.shields.io/badge/⚡️ Explore More-FF5733?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Explore Capstone Button">
 </p>
-#### **🔍 What I Did**
-- 🎨 **Character Design**: Crafted unique and memorable characters that resonate with players.
-- 🔧 **3D Modeling**: Developed high-quality character models and environmental assets using industry-standard tools like Blender and Maya.
-- 🛠️ **Level Design & Construction**: Designed intricate, engaging game levels and brought them to life through detailed implementation.
-
-#### **✨ What's next**
-Looking ahead, I aim to elevate the game’s visual and interactive appeal by focusing on:
-
--Animation Development: Breathing life into characters through dynamic and realistic animations.
--Character Interaction: Implementing seamless interactions between characters to enhance gameplay and storytelling.
----
 
 ## 🌟 Vision & Goals
 
