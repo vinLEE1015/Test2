@@ -44,7 +44,7 @@ Inspired by the Pokémon universe, I’m dedicated to creating visually captivat
 ### 🎯 Pokémon Battle Simulation (Korean Patch)
 
 <p align="center">
-  <img src="file:///C:/Users/%EC%9D%B4%EC%83%81%EC%A2%85/Downloads/GIFMaker_me%20(1).gif" alt="Pokémon Battle Simulation GIF" width="70%">
+  <img src="https://github.com/user-attachments/assets/556d2247-1e1e-411d-9afb-1263719cf0d8" alt="Pokémon Battle Simulation GIF" width="70%">
 </p>
 
 > **An enhanced open-source Pokémon Battle simulation localized into Korean!**
