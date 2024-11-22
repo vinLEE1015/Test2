@@ -55,7 +55,7 @@ Inspired by the Pokémon universe, I’m dedicated to creating visually captivat
   - Integrated new designs to align with Pokémon’s creative universe.
 
 > **✨ Try it out:**  
-[![Pokémon Battle Simulation](https://img.shields.io/badge/Play%20Now-FFCB05?style=for-the-badge&logo=pokemon&logoColor=white)](https://github.com/vinLEE1015/pokemon-battle-simulation)
+[![Pokémon Battle Simulation](https://img.shields.io/badge/Play%20Now-FFCB05?style=for-the-badge&logo=pokemon&logoColor=white)]([https://github.com/vinLEE1015/pokemonbattle_ko](https://github.com/vinLEE1015/Test2/blob/main/pokemonbattle_ko))
 
 ---
 
