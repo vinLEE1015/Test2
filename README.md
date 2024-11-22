@@ -83,22 +83,17 @@ Confident in 3D graphic design, Photoshop, and web design.
 
 
 #### **🔍 What I Did**
-- 🎨 **Character Design**: 
-  - Designed captivating, player-friendly characters that align with the game’s theme and storyline.
-- 🔧 **3D Modeling**: 
-  - Developed high-quality character models and environmental assets using tools like **Blender** and **Maya**.
-- 🛠️ **Level Design & Construction**: 
-  - Built immersive game levels with detailed layouts and logical flow.
+- 🎨 **Character Design**: Designed captivating, player-friendly characters that align with the game’s theme and storyline.
+- 🔧 **3D Modeling**: Developed high-quality character models and environmental assets using tools like **Blender** and **Maya**.
+- 🛠️ **Level Design & Construction**: Built immersive game levels with detailed layouts and logical flow.
 
 
 
 
 #### **✨ What's Next**
 Looking ahead, I aim to elevate the game’s visuals and interactions to the next level by focusing on:
-- 🎥 **Animation Development**: 
-  - Breathing life into characters through dynamic and realistic animations that enhance immersion.
-- 🤝 **Character Interaction**: 
-  - Implementing seamless interactions between characters to enrich storytelling and gameplay depth.
+- 🎥 **Animation Development**: Breathing life into characters through dynamic and realistic animations that enhance immersion.
+- 🤝 **Character Interaction**: Implementing seamless interactions between characters to enrich storytelling and gameplay depth.
     
 
 
