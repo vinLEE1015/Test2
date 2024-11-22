@@ -69,7 +69,7 @@ Confident in 3D graphic design, Photoshop, and web design.
   </a>
 </p>
 
-<hr style="width:10%;">
+<hr style="width:10%;height:10px;">
 
 ### 🕹️ Capstone Project *(In Progress)*
 
@@ -162,7 +162,7 @@ I aspire to become a world-class game designer who inspires others through innov
 <p align="center">
 
 ---
-## 📞 Contact Me
+## 📞 Contact
 
 - **Phone**: 010-9084-3295
 - **E-mail**: alice3295@cau.ac.kr 
