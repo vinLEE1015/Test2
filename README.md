@@ -116,6 +116,8 @@ I aspire to become a world-class game designer who inspires others through innov
 
 ---
 
+<p align="center">
+
 ## 📊 GitHub Stats
 
 <div align="center">
