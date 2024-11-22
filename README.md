@@ -1,7 +1,7 @@
-<h1 align="center">🌟 Welcome to Lee HaeVin's GitHub Portfolio 🌟</h1>
+<h1 align="center">✨ Welcome to Lee HaeVin's Pokémon World! ✨</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x200.png?text=Welcome+to+My+World" alt="Banner" />
+  <img src="https://via.placeholder.com/800x200.png?text=Step+into+the+Pokémon+Universe!" alt="Banner" />
 </p>
 
 <p align="center">
@@ -18,71 +18,61 @@
 
 ---
 
-## 👋 About Me
+## 🎮 Pokémon Battle Simulation (Korean Patch)
 
-Hello! I'm **Lee HaeVin**, a passionate **3D Graphic Designer**, **Web Designer**, and **Programmer**.  
-Inspired by the Pokémon universe, I’m dedicated to creating visually captivating games and compelling graphics.  
+<div align="center">
+  <img src="https://via.placeholder.com/800x300.png?text=Pokemon+Battle+Simulation+Korean+Version" alt="Pokémon Battle" width="80%">
+</div>
 
-🌟 **My Motto**: Creativity meets technology to tell unforgettable stories.  
+- **Description**: Modified an open-source Pokémon battle simulation to create a fully Korean-patched version.
+- **Features**:
+  - **Localization**: Translated all in-game elements into Korean.
+  - **UI/UX Enhancements**: Simplified design for better player experience.
+  - **Bug Fixes**: Debugged gameplay mechanics for smoother interaction.
+- **Goal**: Make the Pokémon Battle experience accessible to Korean-speaking players.
+
+<div align="center">
+  <a href="https://github.com/vinLEE1015/Test2/blob/main/pokemonbattle_ko">
+    <img src="https://via.placeholder.com/600x200.png?text=Click+to+Play+My+Pokemon+Battle!" alt="Play Now Banner" width="80%">
+  </a>
+  <br>
+  <a href="https://github.com/vinLEE1015/Test2/blob/main/pokemonbattle_ko">
+    <img src="https://img.shields.io/badge/✨ Play Now-FFCB05?style=for-the-badge&logo=pokemon&logoColor=white" alt="Play Now Button">
+  </a>
+</div>
 
 ---
 
 ## 🛠️ Skills & Tools
 
-| Area             | Tools & Technologies                   |
-|------------------|----------------------------------------|
-| **3D Design**    | Blender, MAYA                         |
-| **Compositing**  | Nuke, Photoshop, Illustrator          |
-| **Programming**  | Python                                |
-| **Development**  | Visual Studio, Visual Studio Code      |
+| 🛠️ **Design**         | Blender, MAYA, Photoshop, Illustrator |
+|-----------------------|--------------------------------------|
+| 💻 **Programming**     | Python, HTML, CSS, JavaScript       |
+| 🕹️ **Game Engines**     | Unity, Unreal Engine                |
 
 ---
 
-## 🎮 Projects
+## 🎨 Pokémon-Themed Design Highlights
 
-### 🎯 Pokémon Battle Simulation (Korean Patch)
-<div align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Pokemon+Battle+Korean+Patch" alt="Pokémon Battle" width="80%">
-</div>
-
-- **Description**: I modified an open-source Pokémon battle simulation codebase, localizing it into Korean and adding unique features.
-- **My Role**: 
-  - Translated all in-game elements into Korean.
-  - Improved UI/UX for better accessibility.
-  - Debugged and enhanced gameplay mechanics.
-- **Highlights**:
-  - Enabled Korean-speaking users to enjoy the Pokémon battle simulation.
-  - Integrated new designs to align with Pokémon’s creative universe.
-
-> **✨ Try it out:**  
-[![Pokémon Battle Simulation](https://img.shields.io/badge/Play%20Now-FFCB05?style=for-the-badge&logo=pokemon&logoColor=white)]([https://github.com/vinLEE1015/pokemonbattle_ko](https://github.com/vinLEE1015/Test2/blob/main/pokemonbattle_ko))
-
----
-
-### 🕹️ Capstone Project *(In Progress)*
-- **Goal**: Developing a unique game from scratch.
-- **Learning**: Strengthened skills through **Game Engine 1** and **Game Engine 2** courses.
-
-<p align="center">
-  <img src="https://via.placeholder.com/400x250.png?text=Project+1+Image" alt="Project 1 Image" width="45%"/>
-  <img src="https://via.placeholder.com/400x250.png?text=Project+2+Image" alt="Project 2 Image" width="45%"/>
-</p>
+- **🎮 Battle Interface**: Inspired by Pokémon Red and Blue, using nostalgic retro UI.
+- **🌟 Animation Effects**: Added smooth transitions for HP bars and Pokémon movements.
+- **🧩 Multiplayer Mode**: Exploring options to introduce a multiplayer feature.
 
 ---
 
 ## 🌟 Vision & Goals
 
-> **"To merge creativity and technology, crafting games that leave a lasting impression."**  
+> **"Creating games that bring joy, nostalgia, and creativity to life."**
 
-I aspire to become a world-class game designer who inspires others through innovative storytelling and breathtaking graphics.  
+I aim to be a game designer who crafts immersive, memorable worlds for players globally.  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinLEE1015&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinLEE1015&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinLEE1015&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinLEE1015&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -93,13 +83,6 @@ I aspire to become a world-class game designer who inspires others through innov
 - **Instagram**: [@hvin._.7](https://www.instagram.com/hvin._.7)  
 - **GitHub**: [vinLEE1015](https://github.com/vinLEE1015)  
 - **Email**: [alice3295@naver.com](mailto:alice3295@naver.com)  
-
----
-
-## 🤝 Collaboration
-
-I’m open to collaborating and learning with others!  
-Feel free to reach out if you’re interested in contributing to my projects or sharing ideas.  
 
 ---
 
