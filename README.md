@@ -70,6 +70,7 @@ Confident in 3D graphic design, Photoshop, and web design.
 </p>
 
 <hr>
+
 ### 🕹️ Capstone Project *(In Progress)*
 
 <div align="center">
