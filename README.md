@@ -41,10 +41,32 @@ Inspired by the Pokémon universe, I’m dedicated to creating visually captivat
 
 ## 🎮 Projects
 
-### 🎯 Pokémon Battle Project
-- **Overview**: Enhanced an open-source Pokémon battle codebase.
-- **My Role**: Designed graphics, implemented new characters, and added skills.
-- **Highlights**: Improved visuals and introduced unique features.
+### 🎯 Pokémon Battle Simulation (Korean Patch)
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.gif?text=Pokémon+Battle+GIF" alt="Pokémon Battle Simulation GIF" width="70%">
+</p>
+
+> **An enhanced open-source Pokémon Battle simulation localized into Korean!**
+
+#### **🔍 What I Did**
+- 🎨 **Localization**: Translated all Pokémon battle terms into Korean, ensuring accuracy and immersion.
+- 🔧 **Customization**: Improved UI/UX for a seamless gameplay experience.
+- 🛠️ **Technical Enhancements**: Researched official Pokémon terms and adapted them to the game.
+- 🐞 **Debugging**: Fixed errors and optimized game mechanics.
+
+#### **✨ Key Features**
+- Full Korean translation for Pokémon moves, items, and interface.
+- Integration of official Pokémon battle terminology.
+- Enhanced design for better readability and player engagement.
+
+<p align="center">
+  <a href="https://github.com/vinLEE1015/Test2/blob/main/pokemonbattle_ko">
+    <img src="https://img.shields.io/badge/🔗 Explore the Code-FFCB05?style=for-the-badge&logo=pokemon&logoColor=white" alt="Explore Code Button">
+  </a>
+</p>
+
+---
 
 ### 🕹️ Capstone Project *(In Progress)*
 - **Goal**: Developing a unique game from scratch.
