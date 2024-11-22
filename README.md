@@ -76,7 +76,7 @@ Inspired by the Pokémon universe, I’m dedicated to creating visually captivat
 </div>
 
 
-> **🎯 A bold step towards creating a unique gaming experience from scratch.**
+> **🎯 Character and level design created using the Blender tool.**
 
 
 #### **🔍 What I Did**
