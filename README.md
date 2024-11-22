@@ -98,7 +98,8 @@ I aspire to become a world-class game designer who inspires others through innov
 
 ## 📞 Contact Me
 
-- **Phone**: 010-9084-3295  
+- **Phone**: 010-9084-3295
+- **E-mail**: alice3295@cau.ac.kr 
 - **Instagram**: [@hvin._.7](https://www.instagram.com/hvin._.7)  
 - **GitHub**: [YourGitHubUsername](https://github.com/YourGitHubUsername)  
 
