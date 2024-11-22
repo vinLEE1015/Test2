@@ -12,14 +12,13 @@ pygame.init()
 font_path = "NanumGothic-Regular.ttf"  
 font_size = 20
 
-
 game_width = 500
 game_height = 500
 size = (game_width, game_height)
 game = pygame.display.set_mode(size)
 pygame.display.set_caption('포켓몬 배틀')
 
-
+# 색상 정의
 black = (0, 0, 0)
 gold = (218, 165, 32)
 grey = (200, 200, 200)
@@ -49,7 +48,7 @@ move_name_ko = {
     "water-gun": "물대포",
     "vine-whip": "덩굴채찍",
     "razor-leaf": "잎날가르기",
-    "fight": "싸우기", 
+    "fight": "싸우기",  
     "use potion": "상처약",  
 }
 
@@ -58,7 +57,7 @@ move_name_ko = {
 
 class Move():
     def __init__(self, url):
-        # API 호출
+
         req = requests.get(url)
         self.json = req.json()
         
@@ -73,7 +72,6 @@ class Pokemon(pygame.sprite.Sprite):
         req = requests.get(f'{base_url}/pokemon/{name.lower()}')
         self.json = req.json()
 
-       
         self.name_ko = name
         self.name_ko = pokemon_name_ko.get(name.lower(), name)
         self.level = level
@@ -81,7 +79,6 @@ class Pokemon(pygame.sprite.Sprite):
         self.y = y
         self.num_potions = 3
         
-       
         stats = self.json['stats']
         for stat in stats:
             if stat['stat']['name'] == 'hp':
@@ -170,15 +167,12 @@ class Pokemon(pygame.sprite.Sprite):
         return Rect(self.x, self.y, self.image.get_width(), self.image.get_height())
 
 
-font_path = "NanumGothic-Regular.ttf"  
+font_path = "NanumGothic-Regular.ttf" 
 font_size = 20
 
-
 def display_message(message):
-
     pygame.draw.rect(game, white, (10, 350, 480, 140))
     pygame.draw.rect(game, black, (10, 350, 480, 140), 3)
-
 
     font = pygame.font.Font(font_path, font_size) 
     text = font.render(message, True, black)
@@ -189,7 +183,6 @@ def display_message(message):
 
     pygame.display.update()
 
-
 def create_button(width, height, left, top, text_cx, text_cy, label):
     mouse_cursor = pygame.mouse.get_pos()
     button = Rect(left, top, width, height)
@@ -198,7 +191,6 @@ def create_button(width, height, left, top, text_cx, text_cy, label):
     else:
         pygame.draw.rect(game, white, button)
     
-
     font = pygame.font.Font(font_path, 16)
     text = font.render(f'{label}', True, black)
     text_rect = text.get_rect(center=(text_cx, text_cy))
@@ -287,7 +279,7 @@ while game_status != 'quit':
                         game_status = 'player move'
                     else:
                         player_pokemon.use_potion()
-                        display_message(f'{player_pokemon.name} 는 상처약을 사용했다!')
+                        display_message(f'{player_pokemon.name_ko} 는 상처약을 사용했다!')
                         time.sleep(2)
                         game_status = 'rival turn'
                         
@@ -397,7 +389,6 @@ while game_status != 'quit':
         time.sleep(1)
         
     # display the fight and use potion buttons
-
     if game_status == 'player turn':
         
         game.fill(white)
@@ -406,6 +397,7 @@ while game_status != 'quit':
         player_pokemon.draw_hp()
         rival_pokemon.draw_hp()
         
+
         fight_button = create_button(240, 140, 10, 350, 130, 412, move_name_ko.get("fight"))
         potion_button = create_button(240, 140, 250, 350, 370, 412, f'{move_name_ko.get("use potion")} ({player_pokemon.num_potions}개)')
         
@@ -472,34 +464,46 @@ while game_status != 'quit':
             
         pygame.display.update()
         
-    # one of the pokemons fainted
+
+
     if game_status == 'fainted':
-        
         alpha = 255
         while alpha > 0:
-            
             game.fill(white)
             player_pokemon.draw_hp()
             rival_pokemon.draw_hp()
             
-            # determine which pokemon fainted
+
             if rival_pokemon.current_hp == 0:
                 player_pokemon.draw()
                 rival_pokemon.draw(alpha)
-                display_message(f'{rival_pokemon.name}가 쓰러졌다!')
+                display_message(f'{rival_pokemon.name_ko}가 쓰러졌다!')
+                game_status = 'win'  
             else:
                 player_pokemon.draw(alpha)
                 rival_pokemon.draw()
-                display_message(f'{player_pokemon.name}가 쓰러졌다!')
-            alpha -= .4
-            
+                display_message(f'{player_pokemon.name_ko}가 쓰러졌다!')
+                game_status = 'lose'  
+            alpha -= 4
             pygame.display.update()
-            
-        game_status = '라이벌에게 승리했다!'
+            time.sleep(0.01)
+
+
+    if game_status in ['win', 'lose']:
+        if game_status == 'win':
+            display_message('축하합니다! 라이벌을 쓰러뜨렸습니다!')
+        elif game_status == 'lose':
+            display_message('라이벌에게 패배했습니다...')
         
-    # gameover screen
-    if game_status == '라이벌에게 패배했다...':
-        
-        display_message('Play again (Y/N)?')
-        
-pygame.quit()
+        time.sleep(2)
+        display_message('다시 하시겠습니까? (Y/N)')
+        game_status = 'gameover'
+
+
+    if game_status == 'gameover':
+        for event in pygame.event.get():
+            if event.type == KEYDOWN:
+                if event.key == K_y:  
+                    game_status = 'select pokemon'
+                elif event.key == K_n:  
+                    game_status = 'quit'
