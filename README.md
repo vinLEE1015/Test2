@@ -1,4 +1,3 @@
-# Test2
 <h1 align="center">🌟 Welcome to Lee HaeVin's GitHub Portfolio 🌟</h1>
 
 <p align="center">
@@ -6,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="[(https://github.com/vinLEE1015)]">
+  <a href="https://github.com/vinLEE1015">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
   <a href="https://www.instagram.com/hvin._.7">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:alice3295@naver.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </p>
@@ -41,10 +40,24 @@ Inspired by the Pokémon universe, I’m dedicated to creating visually captivat
 
 ## 🎮 Projects
 
-### 🎯 Pokémon Battle Project
-- **Overview**: Enhanced an open-source Pokémon battle codebase.
-- **My Role**: Designed graphics, implemented new characters, and added skills.
-- **Highlights**: Improved visuals and introduced unique features.
+### 🎯 Pokémon Battle Simulation (Korean Patch)
+<div align="center">
+  <img src="https://via.placeholder.com/600x300.png?text=Pokemon+Battle+Korean+Patch" alt="Pokémon Battle" width="80%">
+</div>
+
+- **Description**: I modified an open-source Pokémon battle simulation codebase, localizing it into Korean and adding unique features.
+- **My Role**: 
+  - Translated all in-game elements into Korean.
+  - Improved UI/UX for better accessibility.
+  - Debugged and enhanced gameplay mechanics.
+- **Highlights**:
+  - Enabled Korean-speaking users to enjoy the Pokémon battle simulation.
+  - Integrated new designs to align with Pokémon’s creative universe.
+
+> **✨ Try it out:**  
+[![Pokémon Battle Simulation](https://img.shields.io/badge/Play%20Now-FFCB05?style=for-the-badge&logo=pokemon&logoColor=white)](https://github.com/vinLEE1015/pokemon-battle-simulation)
+
+---
 
 ### 🕹️ Capstone Project *(In Progress)*
 - **Goal**: Developing a unique game from scratch.
@@ -68,8 +81,8 @@ I aspire to become a world-class game designer who inspires others through innov
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinLEE1015&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinLEE1015&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -78,7 +91,8 @@ I aspire to become a world-class game designer who inspires others through innov
 
 - **Phone**: 010-9084-3295  
 - **Instagram**: [@hvin._.7](https://www.instagram.com/hvin._.7)  
-- **GitHub**: [YourGitHubUsername](https://github.com/YourGitHubUsername)  
+- **GitHub**: [vinLEE1015](https://github.com/vinLEE1015)  
+- **Email**: [alice3295@naver.com](mailto:alice3295@naver.com)  
 
 ---
 
