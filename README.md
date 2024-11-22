@@ -2,7 +2,7 @@
 <h1 align="center">🌟 Welcome to Lee HaeVin's GitHub Portfolio 🌟</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd160ba7-6c98-47e8-8f51-786499036a52" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/3336e4ea-a6a9-4f8b-804f-22d5e2a59cb4" alt="Banner" />
 </p>
 
 <p align="center">
