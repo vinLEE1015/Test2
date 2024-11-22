@@ -77,11 +77,9 @@ Inspired by the Pokémon universe, I’m dedicated to creating visually captivat
   <img src="https://github.com/user-attachments/assets/358681b7-f79f-4e70-b380-791033159bd5" width="45%"/>
 </p>
 #### **🔍 What I Did**
-As the lead of Game Graphics Development, I have contributed extensively to creating a visually captivating and immersive gaming experience:
-
-- Character Design: Crafted unique and memorable characters that resonate with players.
-- 3D Modeling: Developed high-quality character models and environmental assets using industry-standard tools like Blender and Maya.
-- Level Design & Construction: Designed intricate, engaging game levels and brought them to life through detailed implementation.
+- 🎨 **Character Design**: Crafted unique and memorable characters that resonate with players.
+- 🔧 **3D Modeling**: Developed high-quality character models and environmental assets using industry-standard tools like Blender and Maya.
+- 🛠️ **Level Design & Construction**: Designed intricate, engaging game levels and brought them to life through detailed implementation.
 
 #### **✨ What's next**
 Looking ahead, I aim to elevate the game’s visual and interactive appeal by focusing on:
