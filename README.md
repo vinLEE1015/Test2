@@ -153,6 +153,8 @@ I aspire to become a world-class game designer who inspires others through innov
 
 
 <p align="center">
+
+---
 ## 📞 Contact Me
 
 - **Phone**: 010-9084-3295
