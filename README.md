@@ -92,9 +92,3 @@ Feel free to reach out if you’re interested in contributing to my projects or 
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-brightgreen?style=for-the-badge" alt="Thank You Badge">
 </p>
-
-
-
-여기서 프로젝트 부문의 포켓몬 배틀 시뮬레이션 부분에 내 프로젝트를 보여주는 GIF를 넣고 내가 짠 코드로 이동할 수 있는 버튼을 만들어줘. 버튼도 강조되고 디자인적 요소를 넣어서 만들어주고 gif나 버튼을 클릭하면 https://github.com/vinLEE1015/Test2/blob/main/pokemonbattle_ko 로 이동할 수 있게 만들어줘.
-그리고 프로젝트에서 내가 한 부분은 포켓몬 배틀 시뮬레이션 오픈소스 코드를 수정하여 한글화한 한글패티 작업이고, 실제 포켓몬 배틀에 쓰이는 용어들을 조사해 적용한 작업이야. 
-https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/ 이 웹페이지를 참고하여 가독성있고 디자인적 요소가 많이 들어가게 만들어줘
