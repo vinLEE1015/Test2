@@ -73,8 +73,8 @@ Inspired by the Pokémon universe, I’m dedicated to creating visually captivat
 - **Learning**: Strengthened skills through **Game Engine 1** and **Game Engine 2** courses.
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x250.png?text=Project+1+Image" alt="Project 1 Image" width="45%"/>
-  <img src="https://via.placeholder.com/400x250.png?text=Project+2+Image" alt="Project 2 Image" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/7d716d45-e612-471a-83a4-5dc2af3ff37d" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/358681b7-f79f-4e70-b380-791033159bd5" width="45%"/>
 </p>
 
 ---
