@@ -9,17 +9,17 @@ from urllib.request import urlopen
 
 pygame.init()
 
-font_path = "NanumGothic-Regular.ttf"  # 폰트 파일 경로
+font_path = "NanumGothic-Regular.ttf"  
 font_size = 20
 
-# 게임 윈도우 생성
+
 game_width = 500
 game_height = 500
 size = (game_width, game_height)
 game = pygame.display.set_mode(size)
 pygame.display.set_caption('포켓몬 배틀')
 
-# 색상 정의
+
 black = (0, 0, 0)
 gold = (218, 165, 32)
 grey = (200, 200, 200)
@@ -27,10 +27,8 @@ green = (0, 200, 0)
 red = (200, 0, 0)
 white = (255, 255, 255)
 
-# API 기본 URL
 base_url = 'https://pokeapi.co/api/v2'
 
-# 포켓몬 이름 한글 매핑
 pokemon_name_ko = {
     "bulbasaur": "이상해씨",
     "charmander": "파이리",
@@ -40,7 +38,6 @@ pokemon_name_ko = {
     "Squirtle": "꼬부기",
 }
 
-# 공격 이름 한글 매핑
 move_name_ko = {
     "tackle": "몸통박치기",
     "bubble": "거품광선",
@@ -52,8 +49,8 @@ move_name_ko = {
     "water-gun": "물대포",
     "vine-whip": "덩굴채찍",
     "razor-leaf": "잎날가르기",
-    "fight": "싸우기",  # 소문자로 수정
-    "use potion": "상처약",  # 소문자로 수정
+    "fight": "싸우기", 
+    "use potion": "상처약",  
 }
 
 
@@ -76,7 +73,7 @@ class Pokemon(pygame.sprite.Sprite):
         req = requests.get(f'{base_url}/pokemon/{name.lower()}')
         self.json = req.json()
 
-        # 포켓몬 이름 설정
+       
         self.name_ko = name
         self.name_ko = pokemon_name_ko.get(name.lower(), name)
         self.level = level
@@ -84,7 +81,7 @@ class Pokemon(pygame.sprite.Sprite):
         self.y = y
         self.num_potions = 3
         
-        # 스탯 설정
+       
         stats = self.json['stats']
         for stat in stats:
             if stat['stat']['name'] == 'hp':
@@ -172,18 +169,18 @@ class Pokemon(pygame.sprite.Sprite):
     def get_rect(self):
         return Rect(self.x, self.y, self.image.get_width(), self.image.get_height())
 
-# 한글 폰트 로드
-font_path = "NanumGothic-Regular.ttf"  # 폰트 파일 경로
+
+font_path = "NanumGothic-Regular.ttf"  
 font_size = 20
 
-# display_message 함수 수정
+
 def display_message(message):
-    # 메시지 박스
+
     pygame.draw.rect(game, white, (10, 350, 480, 140))
     pygame.draw.rect(game, black, (10, 350, 480, 140), 3)
 
-    # 메시지 출력
-    font = pygame.font.Font(font_path, font_size)  # 한글 폰트 지정
+
+    font = pygame.font.Font(font_path, font_size) 
     text = font.render(message, True, black)
     text_rect = text.get_rect()
     text_rect.x = 30
@@ -192,7 +189,7 @@ def display_message(message):
 
     pygame.display.update()
 
-# create_button 함수 수정
+
 def create_button(width, height, left, top, text_cx, text_cy, label):
     mouse_cursor = pygame.mouse.get_pos()
     button = Rect(left, top, width, height)
@@ -201,7 +198,7 @@ def create_button(width, height, left, top, text_cx, text_cy, label):
     else:
         pygame.draw.rect(game, white, button)
     
-    # 한글 폰트로 버튼 레이블 출력
+
     font = pygame.font.Font(font_path, 16)
     text = font.render(f'{label}', True, black)
     text_rect = text.get_rect(center=(text_cx, text_cy))
@@ -209,7 +206,6 @@ def create_button(width, height, left, top, text_cx, text_cy, label):
     return button
 
 
-# 이하의 나머지 코드는 기존 흐름 그대로 이어지며, 한글화된 메시지를 반영해 출력합니다.
 # create the starter pokemons
 level = 30
 bulbasaur = Pokemon('bulbasaur', level, 25, 150)
@@ -401,7 +397,7 @@ while game_status != 'quit':
         time.sleep(1)
         
     # display the fight and use potion buttons
-# 플레이어의 차례
+
     if game_status == 'player turn':
         
         game.fill(white)
@@ -410,7 +406,6 @@ while game_status != 'quit':
         player_pokemon.draw_hp()
         rival_pokemon.draw_hp()
         
-        # 버튼 생성 (싸우기, 상처약)
         fight_button = create_button(240, 140, 10, 350, 130, 412, move_name_ko.get("fight"))
         potion_button = create_button(240, 140, 250, 350, 370, 412, f'{move_name_ko.get("use potion")} ({player_pokemon.num_potions}개)')
         
