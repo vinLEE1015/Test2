@@ -123,8 +123,8 @@ I aspire to become a world-class game designer who inspires others through innov
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinLEE1015&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?vinLEE1015=vinLEE1015&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -134,7 +134,7 @@ I aspire to become a world-class game designer who inspires others through innov
 - **Phone**: 010-9084-3295
 - **E-mail**: alice3295@cau.ac.kr 
 - **Instagram**: [@hvin._.7](https://www.instagram.com/hvin._.7)  
-- **GitHub**: [YourGitHubUsername](https://github.com/YourGitHubUsername)  
+- **GitHub**: [vinLEE1015](https://github.com/vinLEE1015)  
 
 ---
 
