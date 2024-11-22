@@ -24,7 +24,9 @@
 Hello! I'm **Lee HaeVin**, a passionate **3D Graphic Designer**, **Web Designer**, and **Programmer**.  
 Confident in 3D graphic design, Photoshop, and web design.
 <p></p>Inspired by the Pokémon universe, I’m dedicated to creating visually captivating games and compelling graphics.  
-<b>
+
+
+
 🌟 **My Motto**: Creativity meets technology to tell unforgettable stories.  
 
 ---
