@@ -75,11 +75,9 @@ Inspired by the Pokémon universe, I’m dedicated to creating visually captivat
   <img src="https://github.com/user-attachments/assets/358681b7-f79f-4e70-b380-791033159bd5" alt="Capstone Project Screenshot 2" width="45%">
 </div>
 
----
 
 > **🎯 A bold step towards creating a unique gaming experience from scratch.**
 
----
 
 #### **🔍 What I Did**
 - 🎨 **Character Design**: 
@@ -89,7 +87,6 @@ Inspired by the Pokémon universe, I’m dedicated to creating visually captivat
 - 🛠️ **Level Design & Construction**: 
   - Built immersive game levels with detailed layouts and logical flow.
 
----
 
 #### **✨ What's Next**
 Looking ahead, I aim to elevate the game’s visuals and interactions to the next level by focusing on:
@@ -98,7 +95,6 @@ Looking ahead, I aim to elevate the game’s visuals and interactions to the nex
 - 🤝 **Character Interaction**: 
   - Implementing seamless interactions between characters to enrich storytelling and gameplay depth.
 
----
 
 #### **🎨 Key Features**
 | Feature               | Description                                                                 |
@@ -122,12 +118,38 @@ I aspire to become a world-class game designer who inspires others through innov
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+### **🌟 Overall Performance**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinLEE1015&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?vinLEE1015=vinLEE1015&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinLEE1015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
----
+
+### **🔥 Most Used Languages**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinLEE1015&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+### **🚀 GitHub Streak**
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vinLEE1015&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+
+### **💻 Contributions Overview**
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinLEE1015&theme=github_dark" alt="Contribution Overview" />
+</p>
+
+</div>
+
+
 
 ## 📞 Contact Me
 
