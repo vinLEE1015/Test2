@@ -91,10 +91,6 @@ Inspired by the Pokémon universe, I’m dedicated to creating visually captivat
 
 ---
 
-<div align="center">
-  <img src="https://via.placeholder.com/700x250.png?text=Animation+Development+Concept" alt="Animation Development Concept" width="80%">
-</div>
-
 #### **✨ What's Next**
 Looking ahead, I aim to elevate the game’s visuals and interactions to the next level by focusing on:
 - 🎥 **Animation Development**: 
